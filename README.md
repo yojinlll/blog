@@ -8,6 +8,3 @@
 - 正则手册：http://tool.oschina.net/uploads/apidocs/jquery/regexp.html
 - 浏览器原理： https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/
 - 文章推荐：https://juejin.im/post/5d387f696fb9a07eeb13ea60
-
-## 博客推荐
-- 黯羽轻扬：http://www.ayqy.net/blog/
